@@ -8,6 +8,7 @@
 - Ram 2 GB
 - Ổ cứng SSD 20 GB
 - Hệ điều hành linux Ubuntu 22.04 trở lên
+* Có thể mua gói basic nhất 5$/tháng tại https://contabo.com/en/vps/.
 
 ### Code chạy
 
