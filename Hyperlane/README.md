@@ -1,8 +1,7 @@
 
 ### Thông tin
 - Chuẩn bị: 0.5$ ETH trên Base mainnet
-- Tạo URL RPC tạo: https://alchemy.com hoặc Quicknode
-
+- Tạo URL RPC tạo: https://alchemy.com
 
 ### Cấu hình tối thiểu
 - CPU 2 Core
